@@ -42,3 +42,10 @@ h1 {
 
 
 }
+p {
+    font-family: sans-serif;
+}
+#me {
+    width: 150px; 
+    height: 150px;
+}

@@ -2,6 +2,7 @@ body {
     background-color: #2a2a2e;
     color: white;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -29,22 +30,27 @@ li a {
     text-decoration: none;
     font-family: sans-serif;
 }
+
 li a:hover {
     background-color: black;
     color: white;
 }
+
 li a.active {
     background-color: #2a79b1;
     color: white
 }
+
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 }
+
 p {
     font-family: sans-serif;
 }
+
 #me {
     width: 150px; 
     height: 150px;

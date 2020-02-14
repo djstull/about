@@ -52,6 +52,9 @@ p {
 }
 
 #me {
+    float: left;
     width: 150px; 
     height: 150px;
+    padding-right: 10px;
+    padding-top: 32px;
 }
